@@ -1,0 +1,10 @@
+insert into todo values(false,10001,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10002,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10003,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10004,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10005,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10006,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10007,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10008,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10009,CURRENT_DATE(),'Learn React','Utkarsh');
+insert into todo values(false,10010,CURRENT_DATE(),'Learn React','Utkarsh');

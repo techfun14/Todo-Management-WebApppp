@@ -1,0 +1,12 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+      poll-interval: 100ms
+      quiet-period: 50ms  # Ensure quiet-period is greater than poll-interval
+    livereload:
+      enabled: true
+
+logging:
+  level:
+    org.springframework.boot.devtools: TRACE
